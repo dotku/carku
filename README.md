@@ -3,7 +3,8 @@
 ## Product
 
 <p align="center">
-  <a href="https://youtu.be/q4HvRy7wZvw?feature=shared" target="_blank"><img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/7851b779-227c-45a8-b374-5fba5426780f" /></a>
+  <a href="https://youtu.be/q4HvRy7wZvw?feature=shared" target="_blank"><img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/a7588efe-1ab3-4612-a62b-682ab9014a1b" />
+  </a>
 </p>
 
 * [Regular 50 Sets, $26999](https://buy.stripe.com/fZeaEQfiT35Vdb26os)
