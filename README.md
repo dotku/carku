@@ -22,12 +22,26 @@ and is committed to providing smart energy products for users and creating a bet
 As the world's leading supplier of lithium battery application solutions，Carku always adheres to  the technology and quality, 
 and it’s customers have expanded to more than 50 countries on 6 continents.
 
+## FAQ
+
+### I'm intereseted with the equipment, how can I request one?
+
+You can request a [Sample One Set, $699](https://buy.stripe.com/7sI6oAc6H8qf7QI9AD) by the link, we will ship to your address.
+
+### How long does it take to arrived?
+
+It depends on the carrier comapnies, but we usually ship out in one weeks depends on the order. If you have large order, one container for example. 
+Please contact us before ordering.
+
+### Can I customized the interface or brand on the kiosk?
+
+Yes, you can customize the interface or brand on the kiosk, please contact us for more detail.
+
 ## Contact
 
 * WhatsApp: Kobe Zhao +8613829617567
 * Mobile: Jay Lin +14158511937
 * Email: [dkwholesale2020+carku@gmail.com](mailto:dkwholesale2020+carku@gmail.com)
-
 
 ## Media
 
