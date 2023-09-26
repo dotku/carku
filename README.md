@@ -23,9 +23,10 @@ and it’s customers have expanded to more than 50 countries on 6 continents.
 
 ## Contact
 
+* WhatsApp: Kobe Zhao +8613829617567
 * Mobile: Jay Lin +14158511937
 * Email: [dkwholesale2020+carku@gmail.com](mailto:dkwholesale2020+carku@gmail.com)
-* WhatsApp: Kobe Zhao +8613829617567
+
 
 ## Media
 
