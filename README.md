@@ -8,6 +8,10 @@ and is committed to providing smart energy products for users and creating a bet
 As the world's leading supplier of lithium battery application solutions，Carku always adheres to  the technology and quality, 
 and it’s customers have expanded to more than 50 countries on 6 continents.
 
+## Contact
+
+[dkwholesale2020+carku@gmail.com](mailto:dkwholesale2020+carku@gmail.com)
+
 ## Media
 
 [YouTube](https://www.youtube.com/@carku-us)
