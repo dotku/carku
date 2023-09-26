@@ -5,10 +5,9 @@
 <p align="center">
   <img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/7851b779-227c-45a8-b374-5fba5426780f" />
 </p>
-<p align="center">
-  <span class="btn btn-primary" style="display:block"><a href="https://buy.stripe.com/3cs6oAeeP35V8UM5kk" target="_blank"><img src="https://github.com/dotku/carku/assets/1519232/d91de484-3333-4a0f-a0d2-a7cf1f07c4ed" alt="carku order" height="48px"/></a></span></p>
 
-
+* [Regular 50 Sets, $26999](https://buy.stripe.com/3cs5kw8Uv0XN8UM5kl)
+* [Sample One Set, $699](https://buy.stripe.com/9AQ28k9Yz21Rdb2002)
 
 ## About
 
@@ -29,3 +28,8 @@ and it’s customers have expanded to more than 50 countries on 6 continents.
 ## Media
 
 [YouTube](https://www.youtube.com/@carku-us)
+
+## Policy
+
+* There is no customer support for sample order
+* Regular 50 sets order come with customer support and customization support (eg use your brand, OEM)
