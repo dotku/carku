@@ -7,7 +7,7 @@
 </p>
 
 * [Regular 50 Sets, $26999](https://buy.stripe.com/3cs5kw8Uv0XN8UM5kl)
-* [Sample One Set, $699](https://buy.stripe.com/9AQ28k9Yz21Rdb2002)
+* [Sample One Set, $699](https://buy.stripe.com/7sI6oAc6H8qf7QI9AD)
 
 ## About
 
