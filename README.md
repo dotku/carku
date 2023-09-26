@@ -35,7 +35,7 @@ Please contact us before ordering.
 
 ### Can I customized the interface or brand on the kiosk?
 
-Yes, you can customize the interface or brand on the kiosk, please contact us for more detail.
+Yes, you can customize the interface or brand on the kiosk, please contact us for more content on how we can support your business need.
 
 ## Contact
 
