@@ -1,6 +1,16 @@
 # carku
 
-![Carku](https://www.car-ku.com/images/ab2.jpg)
+## Product
+
+<p align="center">
+  <img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/7851b779-227c-45a8-b374-5fba5426780f" />
+</p>
+
+## About
+
+<p align="center">
+  <img alt="carku manufacture" src="https://www.car-ku.com/images/ab2.jpg" />
+</p>
 
 Established in 2011, Carku is a high-tech enterprises specializing in R&D, production and sales of lithium battery technology application products. 
 Carku has formed core sections such as "Car Jump Starter, Portable Power Station, Heavy Truck Starting Battery, Intelligent Home Appliances, Power Tools", 
