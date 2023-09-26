@@ -6,7 +6,7 @@
   <img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/7851b779-227c-45a8-b374-5fba5426780f" />
 </p>
 
-* [Regular 50 Sets, $26999](https://buy.stripe.com/3cs5kw8Uv0XN8UM5kl)
+* [Regular 50 Sets, $26999](https://buy.stripe.com/fZeaEQfiT35Vdb26os)
 * [Sample One Set, $699](https://buy.stripe.com/7sI6oAc6H8qf7QI9AD)
 
 ## About
