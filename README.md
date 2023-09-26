@@ -5,7 +5,8 @@
 <p align="center">
   <img alt="carku charge station" src="https://github.com/dotku/carku/assets/1519232/7851b779-227c-45a8-b374-5fba5426780f" />
 </p>
-<p align="center"><span class="btn btn-primary" style="display:block"><a href="https://buy.stripe.com/3cs6oAeeP35V8UM5kk" target="_blank">Order</a></span></p>
+<p align="center">
+  <span class="btn btn-primary" style="display:block"><a href="https://buy.stripe.com/3cs6oAeeP35V8UM5kk" target="_blank"><img src="https://github.com/dotku/carku/assets/1519232/d91de484-3333-4a0f-a0d2-a7cf1f07c4ed" alt="carku order"/></a></span></p>
 
 
 
