@@ -10,8 +10,7 @@
 * [Regular 50 Sets, $26999](https://buy.stripe.com/fZeaEQfiT35Vdb26os)
 * [Sample One Set, $699](https://buy.stripe.com/7sI6oAc6H8qf7QI9AD)
 
-![carku software](https://github.com/dotku/carku/assets/1519232/d2ffb63c-2d67-4fc0-b6b6-5702253b4b82)
-
+<p align="center"><img src="https://github.com/dotku/carku/assets/1519232/d2ffb63c-2d67-4fc0-b6b6-5702253b4b82" /></p>
 
 ## About
 
