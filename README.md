@@ -7,7 +7,6 @@ We provide green engery solution including products:
 * Power Station
 * Home Power Solution
 
-
 ## Product
 
 <p align="center">
@@ -50,6 +49,13 @@ Please contact us before ordering.
 ### Can I customized the interface or brand on the kiosk?
 
 Yes, you can customize the interface or brand on the kiosk, please contact us for more content on how we can support your business need.
+
+## Affiliate Plan
+
+* Anyone could join use for selling, 2% commission to get started;
+* 3% if there is a success selling;
+* 5% if there are 10 selling a year;
+* if you can sell more, contact us to disscuss.
 
 ## Contact
 
