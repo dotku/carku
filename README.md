@@ -59,7 +59,7 @@ Yes, you can customize the interface or brand on the kiosk, please contact us fo
 
 ### FAQ on Business
 
-1. Why won't you provide 30% or even high commission?
+1. Why won't you provide 30% or even high commission?  
 Digital product usually has less profit, in order to keep up our industry tech adventationg.
 We want to invest more on technology improvement instead of buiding selling team.
 Most SEO only take few percentage of owningship of the company (usually < 10%, feel free to check SPY 500 companies)
